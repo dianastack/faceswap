@@ -1,5 +1,6 @@
 from typing import Tuple
 
+
 from facefusion.logger import get_package_logger
 from facefusion.types import TableContents, TableHeaders
 
